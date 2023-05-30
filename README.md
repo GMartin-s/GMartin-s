@@ -5,7 +5,7 @@ Guilherme Martins
 
 <div>
 <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=GMartin-s&count_private=true&show_icons=true&theme=transparent"/>
-<img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMartin-s&layout=compact&langs_count=16&theme=transparent"/>
+
 </div>
 
 
